@@ -13,7 +13,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v.4.007+ Release]() = `*Tool files & folder*`
+- [💾 v.4.007+ Release](https://github.com/HoI-4-DLC-Unlocker/.github/releases) = `*Tool files & folder*`
 
 ---
 
